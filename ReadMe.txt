@@ -14,7 +14,7 @@ VI.Search and retrieval of birth certificates.
 VII.Admin panel for managing records.
 Technologies Used
 Frontend: HTML, CSS, Bootstrap,JavaScript
-Backend: PhP, XAMP
+Backend: PhP,xamp
 Database: MYSQL
 Prerequisites
 Xamp and installed on your local machine.
